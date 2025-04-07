@@ -15,7 +15,7 @@
 ChatGPT现在是免费可用的，只要准备好魔法和一个海外邮箱，然后通过`https://chatgpt.com/`直接注册登录就能用。
 
 详细可看：
-[这是一个链接](https://www.example.com)
+[ChatGPT国内使用指南：Plus/Pro升级订阅+取消方法（2025最新）]([https://www.example.com](https://mp.weixin.qq.com/s/-s5pCjVCaBnYt9-wjKCUYw))
 
 
 ## 二、如何使用GPT-4o生成图像
@@ -32,7 +32,7 @@ ChatGPT现在是免费可用的，只要准备好魔法和一个海外邮箱，�
 
 但是目前免费用户每天只能使用`3次`图像生成功能，而且速度也比较慢，如果是要高频使用可以考虑升级到Plus或者Pro。
 
-（文章）
+[ChatGPT国内使用指南：Plus/Pro升级订阅+取消方法（2025最新）]([https://www.example.com](https://mp.weixin.qq.com/s/-s5pCjVCaBnYt9-wjKCUYw))
 
 另外GPT-4o的图像生成也不是指哪打哪，**如果生成的图片不满意，可以多生成几次，多抽卡以找到满意的。**
 
@@ -148,8 +148,3 @@ GPT-4o就能根据你的照片和价格，自动生成设计精美、价格清�
 不得不说Gemini和GPT-4o他们正在重新定义我们的创意工作流，他们已经不仅仅是一个聊天机器人，更是一个强大的全能工作助手！
 
 
-**其他你感兴趣的：**
-
-1
-
-2
